@@ -1,4 +1,9 @@
-### Hi there 👋
+### [Shamur.ai](https://shamur.ai)
+
+- 🔭 I’m currently working on VR/360°/Future of Work and some fun side projects.
+- 💬 Ask me about HCI + AI Research.
+- 📫 How to reach me: [@ayman](https://twitter.com/ayman)
+- 😄 Pronouns: he/him
 
 <!--
 **ayman/ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
