@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="33%">
 
-### Medium
+### [Medium](https://medium.com/@ayman)
 <!-- medium starts -->
 * [18 Months of SIGCHI Operations](https://medium.com/sigchi/18-months-of-sigchi-operations-3941b9cf5c79?source=rss-fee698eab874------2) <br /> <sub>Thu, 02 Jul 2020 21:28:31 GMT</sub>
 * [Want HRI Conference DOIs and Videos? Just Tap.](https://medium.com/sigchi/want-hri-conference-dois-and-videos-just-tap-745669343af?source=rss-fee698eab874------2) <br /> <sub>Mon, 06 Apr 2020 23:55:08 GMT</sub>
@@ -21,11 +21,10 @@
 * [PWA ß 4 CSCW2019](https://medium.com/sigchi/pwa-beta-cscw2019-830bb59ed94?source=rss-fee698eab874------2) <br /> <sub>Wed, 20 Nov 2019 23:16:50 GMT</sub>
 <!-- medium ends -->
 
-More [Medium](https://medium.com/@ayman)
 </td>
 <td valign="top" width="34%">
 
-### YouTube
+### [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 <!-- youtube starts -->
 * <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/kBEnHJX-2t4/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=kBEnHJX-2t4'>Updated: ProCo Rat or Bias FX2 Mouse? | Shamurai Reviews</a><br /> <sub>2020-07-17T06:07:19+00:00</sub></div>
 * <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/7kC5eU7M8X4/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=7kC5eU7M8X4'>Rat or Mouse? ProCo vs Bias FX2 Mobile | Shamurai Reviews</a><br /> <sub>2020-07-10T17:13:44+00:00</sub></div>
@@ -33,7 +32,6 @@ More [Medium](https://medium.com/@ayman)
 <!-- youtube ends -->
 <div style='clear: both;'></div>
 
-More [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 </td>
 </tr>
 </table>
