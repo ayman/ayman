@@ -37,10 +37,11 @@ More [Medium](https://medium.com/@ayman)
 
 ### YouTube
 <!-- youtube starts -->
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/kBEnHJX-2t4/hqdefault.jpg' width='128' align='left' /> [Updated: ProCo Rat or Bias FX2 Mouse? | Shamurai Reviews](https://www.youtube.com/watch?v=kBEnHJX-2t4) <br /> <span style='font-size:x-small;'>2020-07-17T06:07:19+00:00</span></div>
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/7kC5eU7M8X4/hqdefault.jpg' width='128' align='left' /> [Rat or Mouse? ProCo vs Bias FX2 Mobile | Shamurai Reviews](https://www.youtube.com/watch?v=7kC5eU7M8X4) <br /> <span style='font-size:x-small;'>2020-07-10T17:13:44+00:00</span></div>
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/sMroEIEBOVs/hqdefault.jpg' width='128' align='left' /> [Thank You to Ada and Don • Na Hoaloha](https://www.youtube.com/watch?v=sMroEIEBOVs) <br /> <span style='font-size:x-small;'>2020-07-07T05:58:53+00:00</span></div>
+* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/kBEnHJX-2t4/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=kBEnHJX-2t4'>Updated: ProCo Rat or Bias FX2 Mouse? | Shamurai Reviews</a><br /> <span style='font-size:x-small;'>2020-07-17T06:07:19+00:00</span></div>
+* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/7kC5eU7M8X4/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=7kC5eU7M8X4'>Rat or Mouse? ProCo vs Bias FX2 Mobile | Shamurai Reviews</a><br /> <span style='font-size:x-small;'>2020-07-10T17:13:44+00:00</span></div>
+* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/sMroEIEBOVs/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=sMroEIEBOVs'>Thank You to Ada and Don • Na Hoaloha</a><br /> <span style='font-size:x-small;'>2020-07-07T05:58:53+00:00</span></div>
 <!-- youtube ends -->
+<div style='clear: both;'></div>
 
 More [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 </td>

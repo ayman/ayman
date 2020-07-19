@@ -29,7 +29,9 @@ def make_md_from_feed(feed, thumbnail=False):
     template_img = "* <div style='padding: 2px; clear: both;'>"
     template_img = template_img + "<img alt='thumbnail' src='{thumbnail}' "
     template_img = template_img + "width='128' align='left' />"
-    template_img = template_img + template[1:] + "</div>"
+    template_img = template_img + "<a href='{url}'>{title}</a><br /> "
+    template_img = template_img + "<span style='font-size:x-small;'>"
+    template_img = template_img + "{published}</span></div>"
     for post in feed:
         if thumbnail:
             mds.append(template_img.format(**post))
