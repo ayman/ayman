@@ -27,9 +27,9 @@ More [Medium](https://medium.com/@ayman)
 
 ### YouTube
 <!-- youtube starts -->
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/kBEnHJX-2t4/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=kBEnHJX-2t4'>Updated: ProCo Rat or Bias FX2 Mouse? | Shamurai Reviews</a><br /> <sub>2020-07-17T06:07:19+00:00</sub></div>
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/7kC5eU7M8X4/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=7kC5eU7M8X4'>Rat or Mouse? ProCo vs Bias FX2 Mobile | Shamurai Reviews</a><br /> <sub>2020-07-10T17:13:44+00:00</sub></div>
-* <div style='padding: 2px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/sMroEIEBOVs/hqdefault.jpg' width='128' align='left' /><a href='https://www.youtube.com/watch?v=sMroEIEBOVs'>Thank You to Ada and Don • Na Hoaloha</a><br /> <sub>2020-07-07T05:58:53+00:00</sub></div>
+* <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/kBEnHJX-2t4/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=kBEnHJX-2t4'>Updated: ProCo Rat or Bias FX2 Mouse? | Shamurai Reviews</a><br /> <sub>2020-07-17T06:07:19+00:00</sub></div>
+* <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/7kC5eU7M8X4/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=7kC5eU7M8X4'>Rat or Mouse? ProCo vs Bias FX2 Mobile | Shamurai Reviews</a><br /> <sub>2020-07-10T17:13:44+00:00</sub></div>
+* <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/sMroEIEBOVs/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=sMroEIEBOVs'>Thank You to Ada and Don • Na Hoaloha</a><br /> <sub>2020-07-07T05:58:53+00:00</sub></div>
 <!-- youtube ends -->
 <div style='clear: both;'></div>
 
