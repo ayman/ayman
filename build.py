@@ -57,15 +57,12 @@ if __name__ == "__main__":
     root = pathlib.Path(__file__).parent.resolve()
     readme = root / "README.md"
     medium_feed = "https://medium.com/feed/@ayman"
-    twitter_feed = "https://rss.app/feeds/DnnmfppORazecplN.xml"
     youtube_feed = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwPj90ORTlgIo4Qrnt5N1w"
 
     medium_md = make_md_from_feed(fetch_feed_entries(medium_feed)[:5])
-    twitter_md = make_md_from_feed(fetch_feed_entries(twitter_feed)[:5])
     youtube_md = make_md_from_feed(fetch_feed_entries(youtube_feed)[:3], True)
     readme_new = readme.open().read()
     readme_new = replace_chunk(readme_new, "medium", medium_md)
-    readme_new = replace_chunk(readme_new, "twitter", twitter_md)
     readme_new = replace_chunk(readme_new, "youtube", youtube_md)
 
     readme.open("w").write(readme_new)
