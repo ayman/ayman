@@ -31,11 +31,12 @@
 * <div style='padding: 3px; clear: both;'><img alt='thumbnail' src='https://i4.ytimg.com/vi/sMroEIEBOVs/hqdefault.jpg' width='96' align='left' /><a href='https://www.youtube.com/watch?v=sMroEIEBOVs'>Thank You to Ada and Don • Na Hoaloha</a><br /> <sub>2020-07-07T05:58:53+00:00</sub></div>
 <!-- youtube ends -->
 <div style='clear: both;'></div>
-
 </td>
 </tr>
 </table>
-    
+
+![Build README](https://github.com/ayman/ayman/workflows/Build%20README/badge.svg)
+
 <!--
 **ayman/ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
