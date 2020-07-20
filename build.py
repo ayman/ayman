@@ -24,14 +24,14 @@ def fetch_feed_entries(url):
 
 def make_md_from_feed(feed, thumbnail=False):
     mds = []
-    template = "* [{title}]({url}) <br /> "
-    template = template + "<sub>{published}</sub>"
-    template_img = "* <div style='padding: 3px; clear: both;'>"
-    template_img = template_img + "<img alt='thumbnail' src='{thumbnail}' "
-    template_img = template_img + "width='96' align='left' />"
-    template_img = template_img + "<a href='{url}'>{title}</a><br /> "
-    template_img = template_img + "<sub>"
-    template_img = template_img + "{published}</sub></div>"
+    template = "%s %s" % ("<p><sub>{published}</sub> <br />",
+                          "<a href='{url}'>{title}</a> </p>")
+    template_img = "%s %s %s %s %s" % (
+        "<div style='clear: both;'>",
+        "<p><img alt='thumbnail' src='{thumbnail}' ",
+        "width='96' align='left' />",
+        "<sub>{published}</sub><br />",
+        "<a href='{url}'>{title}</a></p></div>")
     for post in feed:
         if thumbnail:
             mds.append(template_img.format(**post))
