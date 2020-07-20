@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on VR/360°/Future of Work and some fun side projects.
 - 💬 Ask me about HCI + AI Research.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 
 <table>
