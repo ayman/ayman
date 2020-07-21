@@ -4,6 +4,7 @@
 import pathlib
 import re
 import feedparser
+from datetime import datetime
 
 
 def fetch_feed_entries(url):
@@ -22,7 +23,7 @@ def fetch_feed_entries(url):
     return outputs
 
 
-def make_md_from_feed(feed, thumbnail=False):
+def make_md_from_feed(feed, date_format="", thumbnail=False):
     mds = []
     template = "%s %s" % ("<p><sub>{published}</sub> <br />",
                           "<a href='{url}'>{title}</a> </p>")
@@ -33,6 +34,9 @@ def make_md_from_feed(feed, thumbnail=False):
         "<sub>{published}</sub><br />",
         "<a href='{url}'>{title}</a></p></div>")
     for post in feed:
+        if date_format != "":
+            post['published'] = datetime.strptime(post['published'],
+                                                  date_format)
         if thumbnail:
             mds.append(template_img.format(**post))
         else:
@@ -59,8 +63,11 @@ if __name__ == "__main__":
     medium_feed = "https://medium.com/feed/@ayman"
     youtube_feed = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwPj90ORTlgIo4Qrnt5N1w"
 
-    medium_md = make_md_from_feed(fetch_feed_entries(medium_feed)[:5])
-    youtube_md = make_md_from_feed(fetch_feed_entries(youtube_feed)[:3], True)
+    medium_md = make_md_from_feed(fetch_feed_entries(medium_feed)[:5],
+                                  "%a, %d %b %Y %H:%M:%S %Z")
+    youtube_md = make_md_from_feed(fetch_feed_entries(youtube_feed)[:3],
+                                   "%Y-%m-%dT%H:%M:%S+00:00",
+                                   True)
     readme_new = readme.open().read()
     readme_new = replace_chunk(readme_new, "medium", medium_md)
     readme_new = replace_chunk(readme_new, "youtube", youtube_md)
