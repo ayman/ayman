@@ -18,7 +18,6 @@
 <p><sub>2020-07-02 21:28:31</sub> <br /> <a href='https://medium.com/sigchi/18-months-of-sigchi-operations-3941b9cf5c79?source=rss-fee698eab874------2'>18 Months of SIGCHI Operations</a> </p>
 <p><sub>2020-04-06 23:55:08</sub> <br /> <a href='https://medium.com/sigchi/want-hri-conference-dois-and-videos-just-tap-745669343af?source=rss-fee698eab874------2'>Want HRI Conference DOIs and Videos? Just Tap.</a> </p>
 <p><sub>2020-03-10 19:11:27</sub> <br /> <a href='https://medium.com/sigchi/a-remote-video-presentation-guide-93957c63aa7a?source=rss-fee698eab874------2'>A Remote Video Presentation Guide</a> </p>
-<p><sub>2019-11-22 17:47:37</sub> <br /> <a href='https://medium.com/acm-cscw/cscw-2019-papers-360ac5de078e?source=rss-fee698eab874------2'>Tasty Stats from the CSCW 2019 Papers Process</a> </p>
 <!-- medium ends -->
 
 </td>
