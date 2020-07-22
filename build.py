@@ -63,7 +63,7 @@ if __name__ == "__main__":
     medium_feed = "https://medium.com/feed/@ayman"
     youtube_feed = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwPj90ORTlgIo4Qrnt5N1w"
 
-    medium_md = make_md_from_feed(fetch_feed_entries(medium_feed)[:5],
+    medium_md = make_md_from_feed(fetch_feed_entries(medium_feed)[:4],
                                   "%a, %d %b %Y %H:%M:%S %Z")
     youtube_md = make_md_from_feed(fetch_feed_entries(youtube_feed)[:3],
                                    "%Y-%m-%dT%H:%M:%S+00:00",
