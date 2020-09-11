@@ -14,7 +14,7 @@
 
 ### [Medium](https://medium.com/@ayman)
 <!-- medium starts -->
-<p><sub>2020-09-01 19:47:01</sub> <br /> <a href='https://medium.com/@ayman/use-ai-to-live-caption-your-meetings-14e4a2d2da3a?source=rss-fee698eab874------2'>Use AI to live caption your meetings</a> </p>
+<p><sub>2020-09-01 19:47:01</sub> <br /> <a href='https://medium.com/swlh/use-ai-to-live-caption-your-meetings-14e4a2d2da3a?source=rss-fee698eab874------2'>Use AI to live caption your meetings</a> </p>
 <p><sub>2020-07-21 18:58:22</sub> <br /> <a href='https://medium.com/@ayman/vr-research-in-mozilla-hubs-63fd3002eedf?source=rss-fee698eab874------2'>VR Research Collection in Mozilla Hubs</a> </p>
 <p><sub>2020-07-02 21:28:31</sub> <br /> <a href='https://medium.com/sigchi/18-months-of-sigchi-operations-3941b9cf5c79?source=rss-fee698eab874------2'>18 Months of SIGCHI Operations</a> </p>
 <p><sub>2020-04-06 23:55:08</sub> <br /> <a href='https://medium.com/sigchi/want-hri-conference-dois-and-videos-just-tap-745669343af?source=rss-fee698eab874------2'>Want HRI Conference DOIs and Videos? Just Tap.</a> </p>
