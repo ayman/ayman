@@ -25,9 +25,9 @@
 
 ### [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 <!-- youtube starts -->
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i3.ytimg.com/vi/fM8wbJ_oVxc/hqdefault.jpg'  width='96' align='left' /> <sub>2020-12-26 18:58:21</sub><br /> <a href='https://www.youtube.com/watch?v=fM8wbJ_oVxc'>Stupid Unboxing and a Canon Surprise | Shamurai Unboxes</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://i2.ytimg.com/vi/qd381INPOxU/hqdefault.jpg'  width='96' align='left' /> <sub>2020-12-20 18:35:16</sub><br /> <a href='https://www.youtube.com/watch?v=qd381INPOxU'>360° Unboxing a Canon R5</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/PXCWPU6z3UY/hqdefault.jpg'  width='96' align='left' /> <sub>2020-12-17 22:00:06</sub><br /> <a href='https://www.youtube.com/watch?v=PXCWPU6z3UY'>Giving Away My Old Gear (to the Songbirds Foundation) | Shamurai</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i4.ytimg.com/vi/g4hthVBo1jc/hqdefault.jpg'  width='96' align='left' /> <sub>2020-07-30 19:14:49</sub><br /> <a href='https://www.youtube.com/watch?v=g4hthVBo1jc'>Pink Floyd Mother Solo with Bias FX2 Tone | Shamurai Reviews</a></p></div>
 <!-- youtube ends -->
 <div style='clear: both;'></div>
 </td>
