@@ -14,10 +14,10 @@
 
 ### [Medium](https://medium.com/@ayman)
 <!-- medium starts -->
+<p><sub>2021-01-29 19:07:00</sub> <br /> <a href='https://medium.com/@ayman/10-years-later-i-was-the-general-chair-for-acm-c-c-2017-it-all-started-here-with-this-workshop-72e6402c4004?source=rss-fee698eab874------2'>10 years later I was the General Chair for ACM C+C 2017...it all started here with this workshop.</a> </p>
 <p><sub>2020-09-29 02:59:32</sub> <br /> <a href='https://medium.com/swlh/behind-twitters-biased-ai-cropping-and-how-to-fix-it-c0bff96c8d3e?source=rss-fee698eab874------2'>Behind Twitter’s Biased AI Cropping and How to Fix It.</a> </p>
 <p><sub>2020-09-28 18:26:36</sub> <br /> <a href='https://medium.com/@ayman/thanks-it-does-seem-that-srt-export-is-a-premium-feature-thanks-ill-update-the-dock-3a3ad4f2d503?source=rss-fee698eab874------2'>Thanks, it does seem that SRT export is a premium feature…thanks, I’ll update the document.</a> </p>
 <p><sub>2020-09-01 19:47:01</sub> <br /> <a href='https://medium.com/swlh/use-ai-to-live-caption-your-meetings-14e4a2d2da3a?source=rss-fee698eab874------2'>Use AI to Live Caption Your Meetings</a> </p>
-<p><sub>2020-07-21 18:58:22</sub> <br /> <a href='https://medium.com/@ayman/vr-research-in-mozilla-hubs-63fd3002eedf?source=rss-fee698eab874------2'>VR Research Collection in Mozilla Hubs</a> </p>
 <!-- medium ends -->
 
 </td>
