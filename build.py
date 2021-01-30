@@ -30,7 +30,7 @@ def make_md_from_feed(feed, date_format="", thumbnail=False):
     template_img = "%s %s %s %s %s" % (
         "<div style='clear: both;'>",
         "<p><img alt='thumbnail' src='{thumbnail}' ",
-        "width='80' align='left' />",
+        "width='72' align='left' />",
         "<sub>{published}</sub><br />",
         "<a href='{url}'>{title}</a></p></div>")
     for post in feed:
