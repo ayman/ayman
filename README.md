@@ -25,7 +25,7 @@
 
 ### [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 <!-- youtube starts -->
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/d390nR_7dSk/hqdefault.jpg'  width='72' align='left' /> <sub>2021-02-14 03:23:18</sub><br /> <a href='https://www.youtube.com/watch?v=d390nR_7dSk'>Mackie Freeplay Live beats the Blackstar Superfly | Shamurai Reviews</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/d390nR_7dSk/hqdefault.jpg'  width='72' align='left' /> <sub>2021-02-14 03:23:18</sub><br /> <a href='https://www.youtube.com/watch?v=d390nR_7dSk'>Mackie FreePlay Live beats the Blackstar Superfly | Shamurai 360° Reviews</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/pTXo_tMmXx4/hqdefault.jpg'  width='72' align='left' /> <sub>2021-01-12 01:16:05</sub><br /> <a href='https://www.youtube.com/watch?v=pTXo_tMmXx4'>ACM CHI Social VR Workshop at 10000x</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://i3.ytimg.com/vi/RGrtb4k7www/hqdefault.jpg'  width='72' align='left' /> <sub>2020-12-30 16:00:08</sub><br /> <a href='https://www.youtube.com/watch?v=RGrtb4k7www'>The $199 Canon RF 50mm/1.8 Unboxed</a></p></div>
 <!-- youtube ends -->
