@@ -14,10 +14,10 @@
 
 ### [Medium](https://medium.com/@ayman)
 <!-- medium starts -->
+<p><sub>2022-09-17 00:15:25</sub> <br /> <a href='https://medium.com/sigchi/making-the-first-hybrid-chi-in-2022-11636b43be0a?source=rss-fee698eab874------2'>Making the First Hybrid CHI in 2022</a> </p>
 <p><sub>2020-09-29 02:59:32</sub> <br /> <a href='https://medium.com/swlh/behind-twitters-biased-ai-cropping-and-how-to-fix-it-c0bff96c8d3e?source=rss-fee698eab874------2'>Behind Twitter’s Biased AI Cropping and How to Fix It.</a> </p>
 <p><sub>2020-09-01 19:47:01</sub> <br /> <a href='https://medium.com/swlh/use-ai-to-live-caption-your-meetings-14e4a2d2da3a?source=rss-fee698eab874------2'>Use AI to Live Caption Your Meetings</a> </p>
 <p><sub>2020-07-21 18:58:22</sub> <br /> <a href='https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf?source=rss-fee698eab874------2'>VR Research Collection in Mozilla Hubs</a> </p>
-<p><sub>2020-07-02 21:28:31</sub> <br /> <a href='https://medium.com/sigchi/18-months-of-sigchi-operations-3941b9cf5c79?source=rss-fee698eab874------2'>18 Months of SIGCHI Operations</a> </p>
 <!-- medium ends -->
 
 </td>
@@ -25,9 +25,9 @@
 
 ### [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 <!-- youtube starts -->
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/d390nR_7dSk/hqdefault.jpg'  width='72' align='left' /> <sub>2021-02-14 03:23:18</sub><br /> <a href='https://www.youtube.com/watch?v=d390nR_7dSk'>Mackie FreePlay Live beats the Blackstar Superfly | Shamurai 360° Reviews</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/pTXo_tMmXx4/hqdefault.jpg'  width='72' align='left' /> <sub>2021-01-12 01:16:05</sub><br /> <a href='https://www.youtube.com/watch?v=pTXo_tMmXx4'>ACM CHI Social VR Workshop at 10000x</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i3.ytimg.com/vi/RGrtb4k7www/hqdefault.jpg'  width='72' align='left' /> <sub>2020-12-30 16:00:08</sub><br /> <a href='https://www.youtube.com/watch?v=RGrtb4k7www'>The $199 Canon RF 50mm/1.8 Unboxed</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i1.ytimg.com/vi/d7buZQICjdo/hqdefault.jpg'  width='72' align='left' /> <sub>2023-03-16 18:00:12</sub><br /> <a href='https://www.youtube.com/watch?v=d7buZQICjdo'>Peak Design Everyday Case | Rapid Unboxing</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i2.ytimg.com/vi/uYuoDc1gVkg/hqdefault.jpg'  width='72' align='left' /> <sub>2023-03-14 18:00:26</sub><br /> <a href='https://www.youtube.com/watch?v=uYuoDc1gVkg'>Belkin Boost Charge Pro | Rapid Unboxing</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i2.ytimg.com/vi/uVeXI05ScpM/hqdefault.jpg'  width='72' align='left' /> <sub>2022-11-29 19:00:19</sub><br /> <a href='https://www.youtube.com/watch?v=uVeXI05ScpM'>Bellroy Apex Note Sleeve Wallet | Rapid Unboxing</a></p></div>
 <!-- youtube ends -->
 <div style='clear: both;'></div>
 </td>
