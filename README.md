@@ -3,7 +3,7 @@
 <a href="https://github.com/ayman"><img src="https://img.shields.io/github/followers/ayman.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/aymans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-- 🔭 I’m currently working on AI/VR/360°/Future of Work and some fun side projects.
+- 🔭 I’m currently working on Human-centered AI, sustainability, and some fun side projects.
 - 💬 Ask me about HCI + AI Research.
 - 😄 Pronouns: he/him.
 
