@@ -1,10 +1,10 @@
 # A GitHub About Page Builder remixed from
 # https://github.com/simonw/simonw
 
+from datetime import datetime
 import pathlib
 import re
 import feedparser
-from datetime import datetime
 
 
 def fetch_feed_entries(url):
