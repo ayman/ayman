@@ -15,7 +15,7 @@
 
 ### [Blog Posts](https://shamur.ai/blog/)
 <!-- blog starts -->
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/images/chi-rhumba.gif'  width='72' align='left' /> <sub>2026-10-04 21:26:22</sub><br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog.images/chi-rhumba.gif'  width='72' align='left' /> <sub>2026-10-04 21:26:22</sub><br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/volcano1.jpeg'  width='72' align='left' /> <sub>2026-09-28 10:51:39</sub><br /> <a href='https://shamur.ai/blog/posts/phone-ai-all-the-data-none-of-the-context/'>Phone AI: All the Data, None of the Context</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/naturalmuseum.png'  width='72' align='left' /> <sub>2026-09-24 10:02:14</sub><br /> <a href='https://shamur.ai/blog/posts/soyoudecidedtorunaworkshop/'>So You Decided To Run A Workshop</a></p></div>
 <div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/twitter-7.png'  width='72' align='left' /> <sub>2026-07-14 10:50:10</sub><br /> <a href='https://shamur.ai/blog/posts/behind-twitters-biased-ai-cropping-and-how-to-fix-it/'>Behind Twitter’s Biased AI Cropping and How to Fix It</a></p></div>
