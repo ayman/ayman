@@ -19,10 +19,10 @@
 
 ### [Blog Posts](https://shamur.ai/blog/)
 <!-- blog starts -->
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/chi-rhumba.gif'  height='45' align='left' /> <sub>2026-10-04 21:26:22</sub><br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/volcano1.jpeg'  height='45' align='left' /> <sub>2026-09-28 10:51:39</sub><br /> <a href='https://shamur.ai/blog/posts/phone-ai-all-the-data-none-of-the-context/'>Phone AI: All the Data, None of the Context</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/naturalmuseum.png'  height='45' align='left' /> <sub>2026-09-24 10:02:14</sub><br /> <a href='https://shamur.ai/blog/posts/soyoudecidedtorunaworkshop/'>So You Decided To Run A Workshop</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/twitter-7.png'  height='45' align='left' /> <sub>2026-07-14 10:50:10</sub><br /> <a href='https://shamur.ai/blog/posts/behind-twitters-biased-ai-cropping-and-how-to-fix-it/'>Behind Twitter’s Biased AI Cropping and How to Fix It</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/chi-rhumba.gif' height='45' align='left' /> <sub>2026-10-04 21:26:22</sub><br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/volcano1.jpeg' height='45' align='left' /> <sub>2026-09-28 10:51:39</sub><br /> <a href='https://shamur.ai/blog/posts/phone-ai-all-the-data-none-of-the-context/'>Phone AI: All the Data, None of the Context</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/naturalmuseum.png' height='45' align='left' /> <sub>2026-09-24 10:02:14</sub><br /> <a href='https://shamur.ai/blog/posts/soyoudecidedtorunaworkshop/'>So You Decided To Run A Workshop</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/twitter-7.png' height='45' align='left' /> <sub>2026-07-14 10:50:10</sub><br /> <a href='https://shamur.ai/blog/posts/behind-twitters-biased-ai-cropping-and-how-to-fix-it/'>Behind Twitter’s Biased AI Cropping and How to Fix It</a></p></div>
 <!-- blog ends -->
 <div style='clear: both;'></div>
 
@@ -31,9 +31,9 @@
 
 ### [YouTube](https://www.youtube.com/channel/UCLwPj90ORTlgIo4Qrnt5N1w?view_as=subscriber)
 <!-- youtube starts -->
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i2.ytimg.com/vi/ui5FMU0C3CE/hqdefault.jpg'  height='45' align='left' /> <sub>2025-02-09 20:31:44</sub><br /> <a href='https://www.youtube.com/watch?v=ui5FMU0C3CE'>Fender X Hello Kitty Merch Drops</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i3.ytimg.com/vi/ZMzUd1GKs6g/hqdefault.jpg'  height='45' align='left' /> <sub>2024-12-15 23:20:22</sub><br /> <a href='https://www.youtube.com/shorts/ZMzUd1GKs6g'>When You’re Done With Vespa Mods… #vespa #scooter #motorcycle  #mods  #custom</a></p></div>
-<div style='clear: both;'> <p><img alt='thumbnail' src='https://i4.ytimg.com/vi/3Jlj-2IJVPw/hqdefault.jpg'  height='45' align='left' /> <sub>2024-11-24 22:37:05</sub><br /> <a href='https://www.youtube.com/shorts/3Jlj-2IJVPw'>MOVO Mini-Dúo Wireless Microphones | Rapid Unboxing</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i2.ytimg.com/vi/ui5FMU0C3CE/hqdefault.jpg' height='45' align='left' /> <sub>2025-02-09 20:31:44</sub><br /> <a href='https://www.youtube.com/watch?v=ui5FMU0C3CE'>Fender X Hello Kitty Merch Drops</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i3.ytimg.com/vi/ZMzUd1GKs6g/hqdefault.jpg' height='45' align='left' /> <sub>2024-12-15 23:20:22</sub><br /> <a href='https://www.youtube.com/shorts/ZMzUd1GKs6g'>When You’re Done With Vespa Mods… #vespa #scooter #motorcycle  #mods  #custom</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://i4.ytimg.com/vi/3Jlj-2IJVPw/hqdefault.jpg' height='45' align='left' /> <sub>2024-11-24 22:37:05</sub><br /> <a href='https://www.youtube.com/shorts/3Jlj-2IJVPw'>MOVO Mini-Dúo Wireless Microphones | Rapid Unboxing</a></p></div>
 <!-- youtube ends -->
 <div style='clear: both;'></div>
 </td>
