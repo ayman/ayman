@@ -1,9 +1,10 @@
 ### [Shamur.ai](https://shamur.ai)
-<a href="https://twitter.com/ayman"><img src="https://img.shields.io/twitter/follow/ayman?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://bsky.app/profile/shamur.ai"><img src="https://img.shields.io/bluesky/followers/shamur.ai" alt="BlueSky"></a>
 <a href="https://github.com/ayman"><img src="https://img.shields.io/github/followers/ayman.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/aymans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-- 🔭 I’m a director of computer science and professor at Northeastern University's Oakland campus. I'm currently working on Human-centered AI, XR, sustainability, and some fun side projects.
+- 🏫 I’m a director of computer science and professor at Northeastern University's Oakland campus. I'm currently working on Human-centered AI, XR, sustainability, and some fun side projects.
+- 🔭 I'm currently working on Human-centered AI, XR, sustainability, and some fun side projects.
 - 💬 Ask me about HCI + AI Research.
 - 😄 Pronouns: he/him.
 
