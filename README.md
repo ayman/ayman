@@ -1,7 +1,11 @@
 ### [Shamur.ai](https://shamur.ai)
 <a href="https://bsky.app/profile/shamur.ai"><img src="https://img.shields.io/bluesky/followers/shamur.ai" alt="BlueSky"></a>
 <a href="https://github.com/ayman"><img src="https://img.shields.io/github/followers/ayman.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/aymans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/aymans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> -->
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://scholar.google.com/citations?user=ge8g4uoAAAAJ&hl=en)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aymans)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=ge8g4uoAAAAJ&hl=en)
+
 
 - 🏫 I’m a director of computer science and professor at Northeastern University's Oakland campus.
 - 🔭 I'm currently working on Human-centered AI, XR, sustainability, and some fun side projects.
