@@ -4,6 +4,7 @@
 from datetime import datetime
 import pathlib
 import re
+import urllib.request
 import feedparser
 
 
@@ -21,6 +22,21 @@ def fetch_feed_entries(url):
             output["thumbnail"] = entry["media_thumbnail"][0]["url"]
         outputs.append(output)
     return outputs
+
+
+def add_og_thumbnails(feed):
+    for post in feed:
+        if "thumbnail" in post:
+            continue
+        try:
+            html = urllib.request.urlopen(post["url"], timeout=10).read()
+        except OSError:
+            continue
+        match = re.search(r'<meta property="og:image" content="([^"]+)"',
+                          html.decode("utf-8", "ignore"))
+        if match:
+            post["thumbnail"] = match.group(1)
+    return feed
 
 
 def make_md_from_feed(feed, date_format="", thumbnail=False):
@@ -63,8 +79,10 @@ if __name__ == "__main__":
     blog_feed = "https://shamur.ai/blog/index.xml"
     youtube_feed = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwPj90ORTlgIo4Qrnt5N1w"
 
-    blog_md = make_md_from_feed(fetch_feed_entries(blog_feed)[:4],
-                                "%a, %d %b %Y %H:%M:%S %z")
+    blog_md = make_md_from_feed(
+        add_og_thumbnails(fetch_feed_entries(blog_feed)[:4]),
+        "%a, %d %b %Y %H:%M:%S %z",
+        True)
     youtube_md = make_md_from_feed(fetch_feed_entries(youtube_feed)[:3],
                                    "%Y-%m-%dT%H:%M:%S+00:00",
                                    True)

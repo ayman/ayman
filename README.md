@@ -3,7 +3,7 @@
 <a href="https://github.com/ayman"><img src="https://img.shields.io/github/followers/ayman.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/aymans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-- 🔭 I’m currently working on Human-centered AI, sustainability, and some fun side projects.
+- 🔭 I’m a director of computer science and professor at Northeastern University's Oakland campus. I'm currently working on Human-centered AI, XR, sustainability, and some fun side projects.
 - 💬 Ask me about HCI + AI Research.
 - 😄 Pronouns: he/him.
 
@@ -12,13 +12,14 @@
 <tr>
 <td valign="top" width="33%">
 
-### [Blog](https://shamur.ai/blog/)
+### [Blog Posts](https://shamur.ai/blog/)
 <!-- blog starts -->
-<p><sub>2026-10-04 21:26:22</sub> <br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a> </p>
-<p><sub>2026-09-28 10:51:39</sub> <br /> <a href='https://shamur.ai/blog/posts/phone-ai-all-the-data-none-of-the-context/'>Phone AI: All the Data, None of the Context</a> </p>
-<p><sub>2026-09-24 10:02:14</sub> <br /> <a href='https://shamur.ai/blog/posts/soyoudecidedtorunaworkshop/'>So You Decided To Run A Workshop</a> </p>
-<p><sub>2026-07-14 10:50:10</sub> <br /> <a href='https://shamur.ai/blog/posts/behind-twitters-biased-ai-cropping-and-how-to-fix-it/'>Behind Twitter’s Biased AI Cropping and How to Fix It</a> </p>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/images/chi-rhumba.gif'  width='72' align='left' /> <sub>2026-10-04 21:26:22</sub><br /> <a href='https://shamur.ai/blog/posts/iranchisoyoudonthaveto/'>I ran CHI so you don't have to...</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/volcano1.jpeg'  width='72' align='left' /> <sub>2026-09-28 10:51:39</sub><br /> <a href='https://shamur.ai/blog/posts/phone-ai-all-the-data-none-of-the-context/'>Phone AI: All the Data, None of the Context</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/naturalmuseum.png'  width='72' align='left' /> <sub>2026-09-24 10:02:14</sub><br /> <a href='https://shamur.ai/blog/posts/soyoudecidedtorunaworkshop/'>So You Decided To Run A Workshop</a></p></div>
+<div style='clear: both;'> <p><img alt='thumbnail' src='https://shamur.ai/blog/images/twitter-7.png'  width='72' align='left' /> <sub>2026-07-14 10:50:10</sub><br /> <a href='https://shamur.ai/blog/posts/behind-twitters-biased-ai-cropping-and-how-to-fix-it/'>Behind Twitter’s Biased AI Cropping and How to Fix It</a></p></div>
 <!-- blog ends -->
+<div style='clear: both;'></div>
 
 </td>
 <td valign="top" width="34%">
