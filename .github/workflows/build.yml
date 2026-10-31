@@ -5,19 +5,22 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '00 00,13 * * *'
-      
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.8
-    - uses: actions/cache@v2
+        python-version: '3.12'
+    - uses: actions/cache@v4
       name: Configure pip caching
       with:
         path: ~/.cache/pip
@@ -37,5 +40,4 @@ jobs:
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
         git diff --quiet || (git add README.md && git commit -m "Bot Updated README")
-        git push      
-    - uses: actions/checkout@v2
+        git push
